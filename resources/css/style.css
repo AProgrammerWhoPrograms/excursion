@@ -13,7 +13,13 @@ a {
 
 }
 
-h1, h2, p {
+p {
+    font-family: Verdana;
+    color: gray;
+    font-size: 21px;
+}
+
+h1, h2 {
     font-family: Verdana;
     color: white;
 }
@@ -21,4 +27,10 @@ h1, h2, p {
 h2 {
     font-weight: 300;
     font-size: 42px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21PX;
 }
